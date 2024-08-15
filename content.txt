@@ -1,0 +1,14 @@
+Python baseline tutorial
+
+1. Variables and basic operations
+2. Lists, tuples, sets and dictionaries
+3. Condition control / branching and loops
+4. Functions part 1
+5. Classes part 1
+6. Python, the operating system and files
+7. Math and plotting
+8. Modules and packages
+9. Functions part 2
+10. Classes part 2
+11. Threading basics
+12. Beware! Object ID and referencing
