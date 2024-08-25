@@ -1,13 +1,5 @@
-Aim of this series of tutorial is to get you up and running with writing code as quickly as possible.
+This tutorial covers the basic variables and operations between them in Python.
 
-For this, we will use google colab - you will not need to setup python on your computer - everything will run on google. Assuming that you have a google account, go to you google drive and create a new folder - you can name it whatever you want.
+Link to code and exercises:
 
-Let's create our first google colab file that we will call:
-
-01_variables_and_basic_operations
-
-It is recommended that you type and execute for yourself all the commands shown in this tutorial, even though you can find the code of each video on GitHub:
-
-https://github.com/maximoskp/python_baseline_tutorial.git
-
-So let's get started with the first tutorial!
+https://github.com/maximoskp/python_baseline_tutorial

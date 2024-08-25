@@ -1,0 +1,9 @@
+This tutorial presents the basics of lists, tuples sets and dictionaries.
+
+If you have not watched the first part of the tutorial, especially if you're new to python, please do so here:
+
+https://www.youtube.com/watch?v=N42LKrokd_E
+
+Link to code and exercises:
+
+https://github.com/maximoskp/python_baseline_tutorial
