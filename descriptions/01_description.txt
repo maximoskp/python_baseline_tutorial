@@ -3,3 +3,5 @@ This tutorial covers the basic variables and operations between them in Python.
 Link to code and exercises:
 
 https://github.com/maximoskp/python_baseline_tutorial
+
+Special thanks to Charis Farmakis for reviewing early versions of the tutorials.

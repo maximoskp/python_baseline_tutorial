@@ -1,0 +1,9 @@
+This tutorial presents the basics of condition control, branching and loops in Python.
+
+If you have not watched the first two parts of the tutorial, especially if you're new to python, please do so here:
+
+https://www.youtube.com/watch?v=N42LKrokd_E&list=PLrij4qkyvGrkydVPoiGXtJ2d9K79tTxEW
+
+Link to code and exercises:
+
+https://github.com/maximoskp/python_baseline_tutorial
